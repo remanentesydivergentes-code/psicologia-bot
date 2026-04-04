@@ -1,0 +1,11 @@
+# Production Dependencies
+
+- gunicorn
+- redis
+- flask
+- celery
+- sqlalchemy
+- requests
+- psycopg2
+- aiohttp
+- python-dotenv
